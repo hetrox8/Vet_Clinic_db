@@ -71,8 +71,10 @@ After you're finished please remove all the comments and instructions!
 ## 🛠 Built With <a name="built-with"></a>
 - SQL
 ### Tech Stack <a name="tech-stack"></a>
--SQL
+
 > Describe the tech stack and include only the relevant sections that apply to your project.
+-This project is built using 
+-SQL
 
 <details>
   <summary>Client</summary>
