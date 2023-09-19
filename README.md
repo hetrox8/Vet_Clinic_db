@@ -202,8 +202,8 @@ Example:
 
 👤 **Suleiman Gacheru**
 
-- GitHub: [@githubhandle](https://github.com/hetrox8)
-- Twitter: [@twitterhandle](https://SuleimanGacheru/twitterhandle)
+- GitHub: [@hetrox8](https://github.com/hetrox8)
+- Twitter: [@suleimangacheru](https://SuleimanGacheru/twitterhandle)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
