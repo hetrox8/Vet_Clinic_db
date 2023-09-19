@@ -64,7 +64,6 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [Vet_Clinic] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
 
 **[Vet_clinic]** is a Database Project for a Vet Clinic that Stores animal information.
 
@@ -72,7 +71,6 @@ After you're finished please remove all the comments and instructions!
 - SQL
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
 -This project is built using 
 -SQL
 
@@ -102,8 +100,6 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
 - **[FLexibitity]**
 - **[Dynamic]**
 - **[Modern]**
@@ -114,8 +110,6 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
-
 - [Live Demo Link](<replace-with-your-deployment-URL>)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -124,7 +118,6 @@ After you're finished please remove all the comments and instructions!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
@@ -207,8 +200,6 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
 👤 **Suleiman Gacheru**
 
 - GitHub: [@githubhandle](https://github.com/hetrox8)
@@ -243,7 +234,6 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
 
 If you like this project kindly leave a star
 
@@ -253,7 +243,6 @@ If you like this project kindly leave a star
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
 
 I would like to thank the microverse community for their support toward completion of this project
 
@@ -263,7 +252,6 @@ I would like to thank the microverse community for their support toward completi
 
 ## ❓ FAQ <a name="faq"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
 
 - **[Question_1]**
 -How to Clone this Repo 
