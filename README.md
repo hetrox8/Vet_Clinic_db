@@ -14,7 +14,7 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 <a name="readme-top"></a>
 
-<!--
+
 HOW TO USE:
 This is an example of how you may give instructions on setting up your project locally.
 
@@ -34,7 +34,6 @@ REQUIRED SECTIONS:
 - License
 
 After you're finished please remove all the comments and instructions!
--->
 
 
 <!-- TABLE OF CONTENTS -->
@@ -67,18 +66,19 @@ After you're finished please remove all the comments and instructions!
 
 > Describe your project in 1 or 2 sentences.
 
-**[your_project__name]** is a...
+**[Vet_clinic]** is a Database Project for a Vet Clinic that Stores animal information.
 
 ## 🛠 Built With <a name="built-with"></a>
-
+- SQL
 ### Tech Stack <a name="tech-stack"></a>
-
+-SQL
 > Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
   <summary>Client</summary>
   <ul>
     <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="https://SQL.org/">SQL</a></li>
   </ul>
 </details>
 
@@ -102,9 +102,9 @@ After you're finished please remove all the comments and instructions!
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[FLexibitity]**
+- **[Dynamic]**
+- **[Modern]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -130,75 +130,74 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-<!--
+
 Example command:
 
 ```sh
  gem install rails
 ```
- -->
+
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-<!--
+
 Example commands:
 
 ```sh
   cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
+  git clone git@github.com:hetrox8/Vet_Clinic_db.git
+
 
 ### Install
 
 Install this project with:
 
-<!--
+
 Example command:
 
 ```sh
   cd my-project
   gem install
 ```
---->
+
 
 ### Usage
 
 To run the project, execute the following command:
 
-<!--
+
 Example command:
 
 ```sh
   rails server
 ```
---->
+
 
 ### Run tests
 
 To run tests, run the following command:
 
-<!--
+
 Example command:
 
 ```sh
   bin/rails test test/models/article_test.rb
 ```
---->
+
 
 ### Deployment
 
 You can deploy this project using:
 
-<!--
+
 Example:
 
 ```sh
 
 ```
- -->
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -208,17 +207,11 @@ Example:
 
 > Mention all of the collaborators of this project.
 
-👤 **Author1**
+👤 **Suleiman Gacheru**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/hetrox8)
+- Twitter: [@twitterhandle](https://SuleimanGacheru/twitterhandle)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -228,9 +221,9 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **[Dynamic]**
+- [ ] **[Modern]**
+- [ ] **[Functional]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -250,7 +243,7 @@ Feel free to check the [issues page](../../issues/).
 
 > Write a message to encourage readers to support your project
 
-If you like this project...
+If you like this project kindly leave a star
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -260,7 +253,7 @@ If you like this project...
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+I would like to thank the microverse community for their support toward completion of this project
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -271,12 +264,10 @@ I would like to thank...
 > Add at least 2 questions new developers would ask when they decide to use your project.
 
 - **[Question_1]**
-
+-How to Clone this Repo 
   - [Answer_1]
+-here is the link https://github.com/hetrox8/Vet_Clinic_db.git
 
-- **[Question_2]**
-
-  - [Answer_2]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -284,7 +275,7 @@ I would like to thank...
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./MIT.md) licensed.
 
 _NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
