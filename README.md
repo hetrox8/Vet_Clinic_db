@@ -169,7 +169,7 @@ Example:
 👤 **Suleiman Gacheru**
 
 - GitHub: [@hetrox8](https://github.com/hetrox8)
-- Twitter: [@suleimangacheru](https://SuleimanGacheru/twitterhandle)
+- Twitter: [@suleimangacheru](https://twitter.com/SuleimanGacheru)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
